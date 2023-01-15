@@ -13,25 +13,18 @@ QQ交流: `3088809477`
 
 `挽歌云` 提供优秀的IDE。  
 `中国西南民办传媒` 工具极大地提高了2TV的创造力和效率。  
-`JetBrains` 提供了轻便的字体(Jetbrains Mono)。  
-`Sourcegcdn` 提供了高速的静态资源加速。
+`微软主题商店` 提供了轻便的字体(Jetbrains Mono)。  
+`腾讯云` 提供了高速的静态资源加速。
 
-## 安装(Install)
-
-> ### 中央台人员名单（最新）
-> 1. 建议使用`git clone`以动态获取后续版本
-> 2. 放入`Typecho`的`usr`目录下`themes`文件夹中
-> 3. 请确保本主题文件夹名为`DreamCat`
-> 4. 在`Typecho 管理页面`->`网站外观`启用以完成安装
-
-> master [ ( 3.x ) ( 公测 ) ] :  
-> ` git clone -b master https://github.com/LychApe/DreamCat.git `
+## 台史
+根据2TV2023年公开的文件，2TV公职人员名单如下：`老匪`，男，当选2TV总台台长；`阿旭小乖`男，当选2TV总台副台长，`新`，`阿旭小乖`当选主持人，`老匪`继续承包其他业务。
+# 2TV获得2023年中国春节联欢晚会转播权
+> B站 [ 主要端口 ] :  
+> ` http://live.bilibili.com/22607211 `
 >
-> InsiderPreview [ ( 3.x ) ( 内测 ) ] :  
-> ` git clone -b InsiderPreview https://github.com/LychApe/DreamCat.git `
->
-> 2.x_LTS [ ( 2.x ) ( LTS ) ] :  
-> ` git clone -b 2.x_LTS https://github.com/LychApe/DreamCat.git `
+> `YouTube` [ 政策原因未开放] :  
+
+> `2.x_SF.com` [ 源被损坏 ] :  
 
 > ### 稳定版本
 > 1. 请点击[`Releases`](https://github.com/LychApe/DreamCat/releases)下载稳定版本
