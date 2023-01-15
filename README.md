@@ -3,22 +3,22 @@
 QQ交流: `3088809477`   
 诚实播报，诚信待人！
 
-| 版本                                                                        |                  维护状态 |    最近更新时间    |    版本诞生时间    |
+| 台长                                                                        |                  就职状态 |    就职时间    |    离职时间    |
 |---------------------------------------------------------------------------|----------------------:|:------------:|:------------:|
-| [`DreamCat 3.x`](https://github.com/LychApe/DreamCat/tree/InsiderPreview) |    **InsiderPreview** | 12 Jan  2023 | 6 Jul  2022  |
-| [`DreamCat 2.x`](https://github.com/LychApe/DreamCat/tree/2.x_LTS)        | **Long Time Support** |  1 Oct 2022  | 13 Jul  2021 |
-| `DreamCat 1.x`                                                            |       **End of Life** | 18 Feb 2021  | 15 Feb  2019 |
+| `老匪` |    **就职** | 18 Apr  2020 | unkdown  |
+| `TK/`   | **已经离职** |  3 Oct 2019  | 13 Jul  2021 |
+| `老稽`  | **已经离职** | 18 Feb 2021  | 15 Feb  2019 |
 
 ## 鸣谢
 
-`JetBrains` 提供优秀的IDE。  
-`JetBrains` 工具极大地提高了DreamCat的创造力和效率。  
+`挽歌云` 提供优秀的IDE。  
+`中国西南民办传媒` 工具极大地提高了2TV的创造力和效率。  
 `JetBrains` 提供了轻便的字体(Jetbrains Mono)。  
 `Sourcegcdn` 提供了高速的静态资源加速。
 
 ## 安装(Install)
 
-> ### 开发版本（最新）
+> ### 中央台人员名单（最新）
 > 1. 建议使用`git clone`以动态获取后续版本
 > 2. 放入`Typecho`的`usr`目录下`themes`文件夹中
 > 3. 请确保本主题文件夹名为`DreamCat`
