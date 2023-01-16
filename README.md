@@ -49,7 +49,7 @@ QQ交流: `3088809477`
 
 只要你遵循上述条款规定，您就可以自由使用本网站上的所有内容！ 版权所有 Copyright © 2015-2023 by 2TV MXIII All rights reserved
 
-## 主题开发:
+## 部分参与人员:
 
 - [HanFengA7](https://github.com/HanFengA7)
 - [TeddyNight](https://github.com/TeddyNight)
